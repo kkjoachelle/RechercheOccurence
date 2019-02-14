@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\RechercheOccurence\RechercheOccurence\bin\Debug\RechercheOccurence.exe.config
+C:\Users\KOFFI\source\repos\RechercheOccurence\RechercheOccurence\bin\Debug\RechercheOccurence.exe
+C:\Users\KOFFI\source\repos\RechercheOccurence\RechercheOccurence\bin\Debug\RechercheOccurence.pdb
+C:\Users\KOFFI\source\repos\RechercheOccurence\RechercheOccurence\obj\Debug\RechercheOccurence.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\RechercheOccurence\RechercheOccurence\obj\Debug\RechercheOccurence.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\RechercheOccurence\RechercheOccurence\obj\Debug\RechercheOccurence.exe
+C:\Users\KOFFI\source\repos\RechercheOccurence\RechercheOccurence\obj\Debug\RechercheOccurence.pdb
